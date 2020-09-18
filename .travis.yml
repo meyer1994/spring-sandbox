@@ -20,7 +20,7 @@ cache:
 install:
   - docker-compose up --detach
   - sleep 10  # Wait for dockers to boot up
-  - docker-compose ps -a
+  - docker-compose ps --all
   - ./gradlew assemble
 
 script:
