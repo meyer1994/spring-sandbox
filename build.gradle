@@ -32,7 +32,7 @@ dependencies {
 	// GIS
 	runtimeOnly 'org.postgresql:postgresql'
 	compile group: 'org.hibernate', name: 'hibernate-spatial', version: '5.4.21.Final'
-	implementation 'org.geolatte:geolatte-geojson:1.6.1'
+	implementation 'org.geolatte:geolatte-geojson:1.7.0'
 
 	// Lombok
 	compileOnly 'org.projectlombok:lombok'
