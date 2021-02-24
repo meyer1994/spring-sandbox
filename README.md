@@ -1,5 +1,6 @@
 # Playground
-[![Build Status](https://travis-ci.com/meyer1994/spring-sandbox.svg?branch=master)](https://travis-ci.com/meyer1994/spring-sandbox)
+
+[![build](https://github.com/meyer1994/spring-sandbox/actions/workflows/build.yml/badge.svg)](https://github.com/meyer1994/spring-sandbox/actions/workflows/build.yml)
 
 ## About
 Used to mess around with Spring and some of its tools.
