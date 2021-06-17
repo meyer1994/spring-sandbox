@@ -26,7 +26,7 @@ dependencies {
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 
 	// Problem+Json
-	implementation 'org.zalando:problem:0.26.0-RC.0'
+	implementation 'org.zalando:problem:0.26.0'
 	implementation 'org.zalando:jackson-datatype-problem:0.26.0-RC.0'
 
 	// GIS
