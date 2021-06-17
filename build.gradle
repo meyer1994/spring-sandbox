@@ -27,7 +27,7 @@ dependencies {
 
 	// Problem+Json
 	implementation 'org.zalando:problem:0.26.0'
-	implementation 'org.zalando:jackson-datatype-problem:0.26.0-RC.0'
+	implementation 'org.zalando:jackson-datatype-problem:0.26.0'
 
 	// GIS
 	runtimeOnly 'org.postgresql:postgresql'
