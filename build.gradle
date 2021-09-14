@@ -40,7 +40,7 @@ dependencies {
 
 	// Camel
 	implementation 'org.apache.camel.springboot:camel-spring-boot-starter:3.11.1'
-	implementation 'org.apache.camel.springboot:camel-jpa-starter:3.11.1'
+	implementation 'org.apache.camel.springboot:camel-jpa-starter:3.11.2'
 
 	// Test
 	testImplementation('org.springframework.boot:spring-boot-starter-test') {
